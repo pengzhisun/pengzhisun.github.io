@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-gem "jekyll-theme-cayman", "~> 0.1.0"
+gem "minima", "~> 2.0"
 
-# gem "jekyll", "~> 3.6.2"
+#gem "jekyll", "~> 3.6.2"
 gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
